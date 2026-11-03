@@ -2,7 +2,7 @@
 
 Script interno para transcrever vídeos do YouTube ou arquivos de áudio/vídeo com WhisperX (large-v3) numa GPU do Google Colab. Gera um `.txt` no diretório atual.
 
-Sem suporte nem garantias.
+Feito pra uso pessoal
 
 ## Requisitos
 
